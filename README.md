@@ -1,9 +1,9 @@
 # Мої фінанси — public website
 
-Static homepage and Ukrainian/English privacy policy for the Android app Мої фінанси by Ruslan Shostak. Contact: ruslanshostak21@gmail.com.
+Personal website of Мої фінанси / My Finances by Ruslan Shostak.
 
-Only website documents belong in this repository. Do not add Android source archives, financial backups, signing keys, credentials or private history.
+- Homepage: https://ruslansho.github.io/moi-finansy-site/
+- Privacy policy (Ukrainian and English): https://ruslansho.github.io/moi-finansy-site/privacy.html
+- Contact: ruslanshostak21@gmail.com
 
-Enable GitHub Pages: Settings → Pages → Deploy from a branch → main → / (root). GitHub account and final URLs must be confirmed before publication. Links within the website are relative.
-
-This folder is prepared for GitHub Pages but has not been pushed or published there yet. Existing corporate Sites hosting is separate.
+GitHub Pages publishes the main branch from / (root). Only public website files belong here; do not upload app databases, signing keys, credentials, private history or Android source archives. The Android source is in a separate private repository, RuslanSho/moi-finansy.
